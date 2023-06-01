@@ -1,0 +1,10 @@
+body {
+    background-color: lightskyblue;
+}
+
+.heading {
+    font-size: 60px;
+    font-style: italic;
+    font-family: fantasy;
+    color: #0D5C63;
+}
